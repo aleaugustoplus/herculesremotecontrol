@@ -17,7 +17,7 @@ Automated tests have not been used
 
 ## Built With
 
-* [Android Developer](https://developer.android.com/)
+* [Arduino](https://www.arduino.cc/)
 
 ## Contributing
 
